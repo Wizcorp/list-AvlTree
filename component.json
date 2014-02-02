@@ -1,0 +1,9 @@
+{
+	"name": "AvlTree",
+	"repo": "Wizcorp/list-AvlTree",
+	"version": "0.1.0",
+	"scripts": [
+		"index.js"
+	],
+	"license": "MIT"
+}
